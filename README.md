@@ -4,6 +4,8 @@
 
 I enjoy working on projects that solve problems.
 
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinjon&count_private=true)
+
 ***
 
 ### Current Projects
