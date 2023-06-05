@@ -11,6 +11,7 @@ I enjoy working on projects that solve problems.
 ### Current Projects
 
 * [📞 NYC Complain](https://nyc-complain.netlify.app/) - visualizing NYC 311 complaints
+  * UI not polished ❎ 💅
 
 ### Past/Retired Projects
 
