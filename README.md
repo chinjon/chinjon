@@ -1,6 +1,6 @@
 # jonathan chin (he/him)
 
-## Software engineer
+## software engineer
 
 I enjoy working on projects that solve problems, making the world a better place.
 
