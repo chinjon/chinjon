@@ -1,8 +1,8 @@
 # jonathan chin (he/him)
 
-## Web developer
+## Software engineer
 
-I enjoy working on projects that solve problems.
+I enjoy working on projects that solve problems, making the world a better place.
 
 ![Jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
