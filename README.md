@@ -2,21 +2,23 @@
 
 ## software engineer
 
-I enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe.
+i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe.
 
-Currently looking for software engineering opportunities, but I have been making plans to go back to school, working towards a civil engineering degree.
+![jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
-![Jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
+## now
+
+currently looking for software engineering opportunities, but i have been making plans to go back to school, working towards a civil engineering degree.
+
+i have been: 
+
+* making the move of [ditching my smartphone for a dumb one](https://www.jonathanch.in/trying-to-replace-my-smartphone-with-a-dumb-phone/)
+* [deleting every unsued account i have](https://www.jonathanch.in/deleting-old-unused-accounts-is-harder-than-it-needs-to-be/)
+* [making photos the best way](https://www.jonathanch.in/my-black-and-white-film-home-development-setup/)
 
 ***
 
-### Current Projects
+### most recent personal projects
 
-* [📞 NYC Complain](https://nyc-complain.netlify.app/) - visualizing NYC 311 complaints
-* [NYC Parades](https://nyc-parades.netlify.app/) - no-frills web app, helping NYC photographers know when the next parade is
-
-### Past/Retired Projects
-
-* [Sliced](https://github.com/chinjon/sliced) - Dollar pizza finder in NYC using Google Maps API
-* [Hearo](https://github.com/chinjon/hearo) - Interface for Last.fm API
-* [mbrainz](https://github.com/chinjon/mbrainz) - Interface for MusicBrainz API
+* [nycomplain](https://nyc-complain.netlify.app/) - visualizing nyc 311 complaints
+* [nyc parades](https://nyc-parades.netlify.app/) - no-frills web app, helping nyc photographers know when the next parade is
