@@ -8,7 +8,15 @@ i enjoy working on projects that solve problems, making the world a better place
 
 ## now
 
-currently looking for software engineering opportunities, but i have been making plans to go back to school, working towards a civil engineering degree.
+currently looking for software engineering opportunities, but i have been making plans to go back to school for either a degree in:
+
+* civil engineer
+* public health
+* geospatial information science
+
+i hope to obtain some sort of civl/public role in local and/or state government.
+
+***
 
 i have been: 
 
