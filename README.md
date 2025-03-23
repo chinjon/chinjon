@@ -2,7 +2,9 @@
 
 ## software engineer
 
-I enjoy working on projects that solve problems, making the world a better place.
+I enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe.
+
+Currently looking for software engineering opportunities, but I have been making plans to go back to school, working towards a civil engineering degree.
 
 ![Jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
