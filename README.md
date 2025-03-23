@@ -11,6 +11,7 @@ I enjoy working on projects that solve problems, making the world a better place
 ### Current Projects
 
 * [📞 NYC Complain](https://nyc-complain.netlify.app/) - visualizing NYC 311 complaints
+* [NYC Parades](https://nyc-parades.netlify.app/) - no-frills web app, helping NYC photographers know when the next parade is
 
 ### Past/Retired Projects
 
