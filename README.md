@@ -8,7 +8,7 @@ i enjoy working on projects that solve problems, making the world a better place
 
 ## now
 
-currently looking for software engineering opportunities, but i have been making plans to go back to school for either a degree in civil engineering. i hope to obtain some sort of civil/public role in local and/or state government.
+as of august 2024, i've looking for new software engineer opportunities, but i have been making plans returning to school for civil engineering. 
 
 ***
 
