@@ -1,12 +1,12 @@
 # jonathan chin (he/him)
 
-## software engineer
+### software engineer
 
 i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe. i am an avid street/documentary photographer, and can usually be found on the streets of nyc - with a camera in my hand.
 
 ![jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
-## now
+### now
 
 as of august 2024, i've looking for new software engineer opportunities, but i have been making plans returning to school for civil engineering. 
 
@@ -29,7 +29,7 @@ i have been:
 
 ***
 
-## back then
+### back then
 
 * i studied media studies at hunter college, with a concentration in journalism
   * i had hoped to have a career in music journalism
