@@ -2,7 +2,7 @@
 
 ## software engineer
 
-i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe.
+i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe. i am an avid street/documentary photographer, and can usually be found on the streets of nyc - with a camera in my hand.
 
 ![jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
