@@ -26,3 +26,14 @@ i have been:
 
 * [nycomplain](https://nyc-complain.netlify.app/) - visualizing nyc 311 complaints
 * [nyc parades](https://nyc-parades.netlify.app/) - no-frills web app, helping nyc photographers know when the next parade is
+
+***
+
+## back then
+
+* i studied media studies at hunter college, with a concentration in journalism
+  * i had hoped to have a career in music journalism
+    * i immediately re-enrolled into school right after graduation to study nutrition science for a year
+* i co-founded a music blog with my friend nadine, called [cereal + sounds](https://www.cerealandsounds.com)
+* i was mainly a self-taught web developer, until i hit... the wall
+  * i enrolled into a dev bootcamp at rutgers university for a six-month program
