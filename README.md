@@ -2,7 +2,7 @@
 
 ### software engineer
 
-i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe. i am an avid street/documentary photographer, and can usually be found on the streets of nyc - with a camera in my hand.
+i enjoy working on projects that solve problems, making the world a better place, no matter how difficult they maybe. i am an avid street/documentary photographer, and can usually be found on the streets of nyc - with a camera in my hand. 
 
 ![jonathan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinjon&count_private=true&theme=onedark)
 
@@ -10,7 +10,7 @@ i enjoy working on projects that solve problems, making the world a better place
 
 as of august 2024, i've looking for new software engineer opportunities, but i have been making plans returning to school for civil engineering. 
 
-i am also looking for local organizations in the NYC/lower Westchester area to lend my services with code - in an effort to be more involved with the community.
+i am also looking for local organizations in the NYC/lower Westchester area to lend my services with code - such as not-for-profits, community-building initatives, unions, etc...
 
 ***
 
