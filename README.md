@@ -6,7 +6,7 @@ i enjoy working on projects that solve problems, making the world a better place
 
 ### now
 
-~~i've been looking for new software engineer opportunities, but~~ i have been making plans returning to school (either civil engineering, geographical information systems or public health). 
+~~i've been looking for new software engineer opportunities, but~~ i have been making plans returning to school (either civil engineering, geographic information systems or public health). 
 
 i am also looking for local organizations in the NYC/lower Westchester area to lend my services with code - such as nonprofits, community-building initatives, unions, etc...
 
