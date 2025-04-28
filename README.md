@@ -1,4 +1,4 @@
-# jonathan chin (he/him)
+## jonathan chin (he/him)
 
 ### ~~software engineer~~
 
