@@ -34,4 +34,4 @@ i have been:
     * i immediately re-enrolled into school right after graduation to study nutrition science for a year
 * i co-founded a music blog with my friend nadine, called [cereal + sounds](https://www.cerealandsounds.com)
 * i held the role of software engineer at a few startups, primarily working with frontend codebases
-  * i was laid off at the most recent startup i was a part of. unable to find a role after a year, i decided it was time to move on from the role and industry. 
+  * after being laid off and unable to find a role after a year, i decided it was time to move on from the role and industry. 
