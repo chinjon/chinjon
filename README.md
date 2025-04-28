@@ -6,7 +6,7 @@ i enjoy working on projects that solve problems, making the world a better place
 
 ### now
 
-as of august 2024, ~~i've looking for new software engineer opportunities, but~~ i have been making plans returning to school (either civil engineering or GIS). 
+~~i've been looking for new software engineer opportunities, but~~ i have been making plans returning to school (either civil engineering or GIS). 
 
 i am also looking for local organizations in the NYC/lower Westchester area to lend my services with code - such as not-for-profits, community-building initatives, unions, etc...
 
